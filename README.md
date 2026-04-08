@@ -1,2 +1,2 @@
-# Hyper-Spectral-image-classification-og-minerals-using-Tree-tensor-networks
+# Hyper-Spectral-image-classification-of-minerals-using-Tree-tensor-networks
 capstone project
